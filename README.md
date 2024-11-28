@@ -9,3 +9,7 @@ In this file you must have you spotify client_id on the first line followed by y
 If you wish to change the values of volume that the program will jump to you will need to modify the first line of the file 'volumes.txt'.
 As long as there are at least two values you can have as many as you wish to jump between.
 The number in the second line of this file must be in the list on the first line.
+
+## Running the script 
+Once the files have been updated you can either run 'script.py' or 'script.exe'.
+The second is converted to .exe for ease of use.
